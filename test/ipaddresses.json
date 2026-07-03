@@ -1,0 +1,82 @@
+[
+  {
+    "_id": "69fb97a79fad80051c298b85",
+    "name": "dev2",
+    "ipaddress": "160.202.36.217",
+    "createdAt": "2026-05-06T19:33:59.569Z",
+    "updatedAt": "2026-05-06T19:41:40.174Z",
+    "__v": 0
+  },
+  {
+    "_id": "69fb97d59fad80051c298b8e",
+    "name": "dev3",
+    "ipaddress": "122.183.49.129",
+    "createdAt": "2026-05-06T19:34:45.581Z",
+    "updatedAt": "2026-05-06T19:41:46.522Z",
+    "__v": 0
+  },
+  {
+    "_id": "69fba0bed85eba4683c3aeb2",
+    "name": "dev1",
+    "ipaddress": "122.162.146.6",
+    "createdAt": "2026-05-06T20:12:46.465Z",
+    "updatedAt": "2026-05-06T20:12:46.465Z",
+    "__v": 0
+  },
+  {
+    "_id": "69fba1add85eba4683c3aebd",
+    "name": "home",
+    "ipaddress": "74.88.22.131",
+    "createdAt": "2026-05-06T20:16:45.671Z",
+    "updatedAt": "2026-05-06T20:16:45.671Z",
+    "__v": 0
+  },
+  {
+    "_id": "69fdfc0bd85eba4683c3aed6",
+    "name": "dev4",
+    "ipaddress": "103.16.29.60",
+    "createdAt": "2026-05-08T15:06:51.562Z",
+    "updatedAt": "2026-05-08T15:06:51.562Z",
+    "__v": 0
+  },
+  {
+    "_id": "69fdfdbfd85eba4683c3aeec",
+    "name": "shop",
+    "ipaddress": "67.86.61.38",
+    "createdAt": "2026-05-08T15:14:07.647Z",
+    "updatedAt": "2026-05-08T15:14:07.647Z",
+    "__v": 0
+  },
+  {
+    "_id": "69fdfdc9d85eba4683c3aeee",
+    "name": "shop",
+    "ipaddress": "67.86.61.38",
+    "createdAt": "2026-05-08T15:14:17.571Z",
+    "updatedAt": "2026-05-08T15:14:17.571Z",
+    "__v": 0
+  },
+  {
+    "_id": "69ff36c1416190e16b7e89b5",
+    "name": "dev5",
+    "ipaddress": "160.202.36.159",
+    "createdAt": "2026-05-09T13:29:37.647Z",
+    "updatedAt": "2026-05-09T13:29:37.647Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a32dc35a6fd9fb65a3a28b6",
+    "name": "Rohit-Dev",
+    "ipaddress": "152.59.85.251",
+    "createdAt": "2026-06-17T17:41:09.624Z",
+    "updatedAt": "2026-06-26T18:38:02.976Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a32dff0bf8320ed288c28bc",
+    "name": "shop",
+    "ipaddress": "68.192.141.7",
+    "createdAt": "2026-06-17T17:57:04.189Z",
+    "updatedAt": "2026-06-17T17:57:04.189Z",
+    "__v": 0
+  }
+]

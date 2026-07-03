@@ -1,0 +1,16 @@
+[
+  {
+    "_id": "6a464c514cc829895dafdcbd",
+    "shop": "followperks-dev.myshopify.com",
+    "__v": 0,
+    "activatedAt": null,
+    "chargeId": null,
+    "createdAt": "2026-07-02T11:32:33.812Z",
+    "currency": null,
+    "plan": "FREE",
+    "planName": null,
+    "price": null,
+    "status": "free",
+    "updatedAt": "2026-07-03T07:24:01.394Z"
+  }
+]

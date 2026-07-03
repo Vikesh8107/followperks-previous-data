@@ -1,0 +1,11 @@
+{
+  "database": "test",
+  "exportedAt": "2026-07-03T07:26:04.722Z",
+  "collections": {
+    "instagramprofiles": 0,
+    "shoptokens": 4,
+    "discounts": 0,
+    "ipaddresses": 10,
+    "subscriptions": 1
+  }
+}
